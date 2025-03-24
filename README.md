@@ -9,7 +9,7 @@
 - **Databases**: MySQL, PostgreSQL, SQLite, MongoDB 
 - **Tools**: Apache Airflow, Docker, GitHub Actions  
 
-## 🔗 Connect
+## 🔗 Connect with me
 📫 **Email**: [branko.contact@proton.me](mailto:branko.contact@proton.me)  
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x)](https://x.com/BrankoData)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/brankowss)
