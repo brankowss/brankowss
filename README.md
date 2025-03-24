@@ -10,8 +10,4 @@
 - **Tools**: Apache Airflow, Docker, GitHub Actions  
 
 ## 🔗 Connect with me
-📫 **Email**: [branko.contact@proton.me](mailto:branko.contact@proton.me)  
-
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BrankoData)  
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/brankowss)
+📫 **Email**: [branko.contact@proton.me] [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BrankoData)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/brankowss)
