@@ -11,5 +11,7 @@
 
 ## 🔗 Connect with me
 📫 **Email**: [branko.contact@proton.me](mailto:branko.contact@proton.me)  
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x)](https://x.com/BrankoData)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/brankowss)
+
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BrankoData)  
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/brankowss)
