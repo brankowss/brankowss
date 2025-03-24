@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Branko 👋
 
-<!--
-**brankowss/brankowss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Data Engineer** specializing in building scalable data pipelines and ETL/ELT workflows.  
+🌱 Currently learning **Spark, AWS, and dbt**.  
+💬 Ask me about **data pipeline architecture, SQL/NoSQL optimization, or workflow orchestration**.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages**: Python, SQL  
+- **Databases**: MySQL, PostgreSQL, SQLite, MongoDB 
+- **Tools**: Apache Airflow, Docker, GitHub Actions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect
+📫 **Email**: [branko.contact@proton.me](mailto:branko.contact@proton.me)  
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x)](https://x.com/BrankoData)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/brankowss)
