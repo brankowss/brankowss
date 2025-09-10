@@ -1,8 +1,6 @@
 # Hi, I'm Branko 👋
 
-🔭 **Data Engineer** specializing in building scalable data pipelines and ETL/ELT workflows.  
-🌱 Currently learning **Apache Spark**.  
-💬 Ask me about **data pipeline architecture, SQL/NoSQL optimization, or workflow orchestration**.
+🔭 **Data Engineer** 
 
 ## 🛠️ Tech Stack
 
@@ -23,6 +21,18 @@ dbt (Data Build Tool), Pandas, SQL-based modeling
 
 **Web Data:**  
 Scrapy, Requests, BeautifulSoup
+
+**Data Processing** 
+Apache Spark (PySpark)
+
+**Streaming & Messaging**
+Apache Kafka
+
+**Data Ingestion** 
+Apache NiFi
+
+**BI & Visualization**
+Metabase
 
 ## 🔗 Connect with Me
 [![Email](https://img.shields.io/badge/Email-%230d6efd?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:branko.contact@proton.me)  
