@@ -1,7 +1,5 @@
 # Hi, I'm Branko 👋
 
-🔭 **Data Engineer** 
-
 ## 🛠️ Tech Stack
 
 **Languages:**  
